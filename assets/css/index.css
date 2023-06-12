@@ -1,0 +1,32 @@
+#fondo {
+    width: 50%;
+}
+
+#telefono, #nombre, #correo, #apellido, #nota, #boton, #fondo {
+    background-color: #38469c;
+    border-color: #0b99d8;
+    border-width: 0.5em;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+
+label {
+    color: #0b99d8;
+}
+
+#telefono, #nombre, #correo, #apellido, #nota {
+    /* border-color: #0b99d8; */
+    color: white;
+}   
+
+#fondoNombre {
+    color: #0b99d8; 
+}
+
+#modal-card {
+    top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+
+}
